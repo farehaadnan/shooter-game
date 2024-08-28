@@ -1,1 +1,1 @@
-# shooter-game
+# shooter-game (made with pygame)
